@@ -1,0 +1,137 @@
+{
+    "intents": [
+
+{"tag": "first year",
+         "patterns": ["what books do you have for 1st year?", "what are available books for first year?"],
+         "responses": ["here are avalaible books for first year :physics :\n1. A text book of Engineering Physics-Avadhanulu&Kshirsagar, S. Chand\n2. A textbook of Optics - N. Subramanyam and Brijlal, S.Chand\n 3. Fundamentals of optics by Jenkins and White, McGrawHill \nchemistry :\n1. Engineering Chemistry - Jain & Jain (DhanpatRai)\n2. Engineering Chemistry – Dara &Dara (S Chand)\n3. Engineering Chemistry - Wiley India\n maths : \n1. Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication\n 2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed.\nC programming :\nThe C Programming Language - Denise Ritchie\nEngineering drawing :\n1) Narayana, K.L. & P Kannaiah (2008), Text book on Engineering Drawing, Scitech Publisher.\n 2) N.D. Bhatt, Charotar Publishing House Pvt. Ltd","the available books are :\nphysics :\n1. A text book of Engineering Physics-Avadhanulu&Kshirsagar, S. Chand \n2. A textbook of Optics - N. Subramanyam and Brijlal, S.Chand\n 3. Fundamentals of optics by Jenkins and White, McGrawHill\n chemistry :\n1. Engineering Chemistry - Jain & Jain (DhanpatRai)\n2. Engineering Chemistry – Dara &Dara (S Chand)\n3. Engineering Chemistry - Wiley India\nmaths :\n 1. Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication \n2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed.\nC programming :\nThe C Programming Language - Denise Ritchie\nEngineering drawing :\n1) Narayana, K.L. & P Kannaiah (2008), Text book on Engineering Drawing, Scitech Publisher.\n 2) N.D. Bhatt, "Engineering Drawing (Plane and solid geometry)", Charotar Publishing House Pvt. Ltd"]
+},
+{
+"tag": "second year",
+         "patterns": ["what books do you have for 2nd year?", "what are available books for second year?"],
+         "responses": ["here are avalaible books for second year :\nmaths:\n1)Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication.\n2) Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited.\ndsgt :\n1) Y N Singh, “Discrete Mathematical Structures”, Wiley-India. 2 J. L. Mott, A. Kandel, T. P. Baker,\n 2) “Discrete Mathematics for Computer Scientists and Mathematicians”, Second Edition 1986, Prentice Hall of India\njava :\n1) Herbert Schildt, ‘JAVA: The Complete Reference’, Ninth Edition, Oracle Press.\n 2) E. Balagurusamy, ‘Programming with Java’, McGraw Hill Education.\n computer graphics :\n1) D. Rogers, “Procedural Elements for Computer Graphics”, Tata McGraw-Hill Publications.\nDSA :\n1) Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.\n2) E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India.\n 3) Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India\nOS :\n1) Maurice J. Bach, “Design of UNIX Operating System”, PHI\n  2) Sumitabha Das, “UNIX: Concepts and Applications”, McGraw Hill, 4thEdition\npython:\n1) Beginning Python: Using Python 2.6 and Python 3.1. James Payne, Wrox Publication \n2) Anurag Gupta, G. P. Biswas, “Python Programming”, McGraw-Hill\nDBMS :\n1) Korth, Slberchatz, Sudarshan, Database System Concepts, 6thEdition, McGraw Hill\n2) Elmasri and Navathe, Fundamentals of Database Systems, 5thEdition, Pearson Education\n", "the available books are :\nmaths:\n1)Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication.\n2) Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited.\ndsgt :\n1) Y N Singh, “Discrete Mathematical Structures”, Wiley-India. 2 J. L. Mott, A. Kandel, T. P. Baker,\n 2) “Discrete Mathematics for Computer Scientists and Mathematicians”, Second Edition 1986, Prentice Hall of India\njava :\n1) Herbert Schildt, ‘JAVA: The Complete Reference’, Ninth Edition, Oracle Press.\n 2) E. Balagurusamy, ‘Programming with Java’, McGraw Hill Education.\n computer graphics :\n1) D. Rogers, “Procedural Elements for Computer Graphics”, Tata McGraw-Hill Publications.\nDSA :\n1) Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.\n2) E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India.\n 3) Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India\nOS :\n1) Maurice J. Bach, “Design of UNIX Operating System”, PHI\n  2) Sumitabha Das, “UNIX: Concepts and Applications”, McGraw Hill, 4thEdition\npython:\n1) Beginning Python: Using Python 2.6 and Python 3.1. James Payne, Wrox Publication\n 2) Anurag Gupta, G. P. Biswas, “Python Programming”, McGraw-Hill\nDBMS :\n1) Korth, Slberchatz, Sudarshan, Database System Concepts, 6thEdition, McGraw Hill\n  2) Elmasri and Navathe, Fundamentals of Database Systems, 5thEdition, Pearson Education\n "]
+},
+
+{
+"tag": "third year",
+         "patterns": ["what books do you have for 3rd year?", "what are available books for third year?"],
+         "responses": ["here are avalaible books for third year :\nSoftware Engineering :\n1) Roger Pressman, “Software Engineering: A Practitioner‘s Approach”, 9th edition , McGraw-Hill Publications, 2019\n 2) Ian Sommerville, “Software Engineering”, 9th edition, Pearson Education, 2011\nComputer Network :\n1) A.S. Tanenbaum, Computer Networks,4th edition Pearson Education \n2) B.A. Forouzan, Data Communications and Networking, 5th edition, TMH\nData warehousing and mining :\n1) Paulraj Ponniah, “ Data Warehousing: Fundamentals for IT Professionals”, Wiley India. \n2) Han, Kamber, “Data Mining Concepts and Techniques”, Morgan Kaufmann 2nd edition.\nCryptography :\n1) William Stallings, “Cryptography and Network Security, Principles and Practice”, 6th Edition, Pearson Education, March 2013\n 2) Behrouz A. Ferouzan, “Cryptography & Network Security”, Tata McGraw Hill\nAI :\n1) Saroj Kaushik, “Artificial Intelligence”, Cengage Learning, First edition, 2011 \n2) George F Luger, “Artificial Intelligence” Low Price Edition, Fourth edition, Pearson Education.,2005\nMobile Computing :\n1) Jochen Schilller, “Mobile Communication”, Addision wisely, Pearson Education\n   2) William Stallings “Wireless Communications & Networks”, Second Edition, Pearson Education\n", "the available books are :\nSoftware Engineering :\n1) Roger Pressman, “Software Engineering: A Practitioner‘s Approach”, 9th edition , McGraw-Hill Publications, 2019\n 2) Ian Sommerville, “Software Engineering”, 9th edition, Pearson Education, 2011\nComputer Network :\n1) A.S. Tanenbaum, Computer Networks,4th edition Pearson Education \n2) B.A. Forouzan, Data Communications and Networking, 5th edition, TMH\nData warehousing and mining :\n1) Paulraj Ponniah, “ Data Warehousing: Fundamentals for IT Professionals”, Wiley India.\n 2) Han, Kamber, “Data Mining Concepts and Techniques”, Morgan Kaufmann 2nd edition.\nCryptography :\n1) William Stallings, “Cryptography and Network Security, Principles and Practice”, 6th Edition, Pearson Education, March 2013\n 2) Behrouz A. Ferouzan, “Cryptography & Network Security”, Tata McGraw Hill\nAI :\n1) Saroj Kaushik, “Artificial Intelligence”, Cengage Learning, First edition, 2011 \n2) George F Luger, “Artificial Intelligence” Low Price Edition, Fourth edition, Pearson Education.,2005\nMobile Computing :\n1) Jochen Schilller, “Mobile Communication”, Addision wisely, Pearson Education \n  2) William Stallings “Wireless Communications & Networks”, Second Edition, Pearson Education\n"]
+},
+
+{
+"tag": "fourth year",
+         "patterns": ["what books do you have for 4th year?", "what are available books for fourth year?"],
+         "responses": ["here are avalaible books for fouth year :\nMachine Learning :\n1) Peter Harrington, ―Machine Learning n Action, DreamTech Press\n 2) Ethem Alpaydın, ―Introduction to Machine Learning, MIT Press \n3) Tom M. Mitchell, ―Machine Learning McGraw Hill\nBig Data Analysis :\n1) Bill Franks , ―Taming The Big Data Tidal Wave: Finding Opportunities In HugeData StreamsWithAdvancedAnalytics‖,Wiley \n2) Chuck Lam, ―Hadoop inAction‖, Dreamtech Press\n 3) Jared Dean, ―Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners‖,Wiley India Private Limited, 2014.\n 4) Jiawei Han and Micheline Kamber, ―Data Mining: Concepts and Techniques‖, Morgan Kaufmann Publishers, 3rd ed, 2010.\n", "the available books are :\nMachine Learning :\n1) Peter Harrington, ―Machine Learning n Action, DreamTech Press \n2) Ethem Alpaydın, ―Introduction to Machine Learning, MIT Press \n3) Tom M. Mitchell, ―Machine Learning McGraw Hill\nBig Data Analysis :\n1) Bill Franks , ―Taming The Big Data Tidal Wave: Finding Opportunities In HugeData StreamsWithAdvancedAnalytics‖,Wiley \n2) Chuck Lam, ―Hadoop inAction‖, Dreamtech Press \n3) Jared Dean, ―Big Data, Data Mining, and Machine Learning: Value Creation for Business Leaders and Practitioners‖,Wiley India Private Limited, 2014. \n4) Jiawei Han and Micheline Kamber, ―Data Mining: Concepts and Techniques‖, Morgan Kaufmann Publishers, 3rd ed, 2010.\n"]
+},
+
+{
+"tag": "techmax",
+         "patterns": ["what techmax books are available?", "are there techmax books available?"],
+         "responses": ["here are avalaible techmax books :\n1) Engineering Physics-1,2 \n2) Data Structures \n3) Analysis of Algorithm\n4) Operating System\n",
+ "Currently,these are the available techmax books available :\n1) Engineering Physics-1,2 \n2) Data Structures \n3) Analysis of Algorithm\n4) Operating System","sorry,currently there are no techmax books available :("]
+},
+{
+"tag": "kumbhojkar",
+         "patterns": ["is kumbhojkar book available?", "what kumbhojkar books are available?"],
+         "responses": ["Yes, kumbhojkar books for following semesters are available :\nSemester 1,2,3,4", "Currently,these are the available kumbhojkar books available: \nSemester 1,2,3,4","sorry,we are out of books by g.v kumbhojkar :("]
+ 
+},
+
+{
+"tag": "physics",
+         "patterns": ["suggest some physics books?", "what physics books are available?","are there physics books present in the library"],
+         "responses": ["Following books are available for physics :\n 1. A text book of Engineering Physics-Avadhanulu&Kshirsagar, S. Chand \n2. A textbook of Optics - N. Subramanyam and Brijlal, S.Chand \n3. Fundamentals of optics by Jenkins and White, McGrawHill\n", "Here are some best physics books currently available in the library :\n1. A text book of Engineering Physics-Avadhanulu&Kshirsagar, S. Chand \n2. A textbook of Optics - N. Subramanyam and Brijlal, S.Chand \n3. Fundamentals of optics by Jenkins and White, McGrawHill","sorry,we are out of physics books.Please try later or contact librarian incharge."]
+
+},
+{
+"tag": "chemistry",
+         "patterns": ["what books do you have for Chemistry?", "what are available books for Chemistry?","what books are available for Chemistry?","Suggest some books for Chemistry","Can you suggest some books for Chemistry"],
+         "responses": ["Following books are available for chemistry :\n1. Engineering Chemistry - Jain & Jain (DhanpatRai)\n2. Engineering Chemistry – Dara &Dara (S Chand)\n3. Engineering Chemistry - Wiley India\n", "Here are some best chemistry books currently available in the library :\n1. Engineering Chemistry - Jain & Jain (DhanpatRai)\n2. Engineering Chemistry – Dara &Dara (S Chand)\n3. Engineering Chemistry - Wiley India\n","sorry,we are out of chemsitry books.Please try later or contact librarian incharge."]
+
+},
+{
+"tag": "mathematics",
+         "patterns": ["what books do you have for mathematics?", "what are available books for maths?","what books are available for mathematics?","Suggest some books for mathematics","Can you suggest some books for mathematics"],
+         "responses": ["Following books are available for mathematics :\n1. Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication \n2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed. \n3. Engineering Mathematics by Srimanta Pal and Subodh,C. Bhunia, Oxford University Press\n  4. Matrices, Shanti Narayan, .S. Chand publication.\n 5. Applied Numerical Methods with MATLAB for Engineers and Scientists by Steven Chapra, McGraw Hill\n", 
+"Here are some best mathematics books currently available in the library :\n1. Higher Engineering Mathematics, Dr. B. S. Grewal, Khanna Publication \n2. Advanced Engineering Mathematics, Erwin Kreyszig, Wiley Eastern Limited, 9th Ed.\n 3. Engineering Mathematics by Srimanta Pal and Subodh,C. Bhunia, Oxford University Press\n 4. Matrices, Shanti Narayan, .S. Chand publication.\n 5. Applied Numerical Methods with MATLAB for Engineers and Scientists by Steven Chapra, McGraw Hill\n","sorry,we are out of mathematics books.Please try later or contact librarian incharge."]
+},
+{
+"tag": "Dsgt",
+         "patterns": ["what books do you have for Dsgt?", "what are available books for Dsgt?","what books are available for Dsgt?","Suggest some books for Dsgt","Can you suggest some books for Dsgt"],
+         "responses": ["Following books are available for Dsgt :\n1) Y N Singh, “Discrete Mathematical Structures”, Wiley-India. 2 J. L. Mott, A. Kandel, T. P. Baker,\n 2) “Discrete Mathematics for Computer Scientists and Mathematicians”, Second Edition 1986, Prentice Hall of India\n", "Here are some best Dsgt books currently available in the library :\n1) Y N Singh, “Discrete Mathematical Structures”, Wiley-India. 2 J. L. Mott, A. Kandel, T. P. Baker, \n2) “Discrete Mathematics for Computer Scientists and Mathematicians”, Second Edition 1986, Prentice Hall of India\n","sorry,we are out of DSGT books.Please try later or contact librarian incharge."]
+},
+{
+"tag": "python",
+        "patterns": ["what books do you have for python?", "what are available books for python?","what books are available for python?","Suggest some books for python","Can you suggest some books for python"],
+         "responses": ["Following books are available for python :\n1) Beginning Python: Using Python 2.6 and Python 3.1. James Payne, Wrox Publication \n2) Anurag Gupta, G. P. Biswas, “Python Programming”, McGraw-Hill\n", "Here are some best python books currently available in the library :\n1) Beginning Python: Using Python 2.6 and Python 3.1. James Payne, Wrox Publication \n2) Anurag Gupta, G. P. Biswas, “Python Programming”, McGraw-Hill\n","sorry,we are out of python books.Please try later or contact librarian incharge."]
+},
+
+{
+"tag": "Machine learning",
+         "patterns": ["what books do you have for Machine learning?", "what are available books for ML?","what books are available for ML?","Suggest some books for Machine learning","Can you suggest some books for ML?"],
+         "responses": ["Following books are available for Machine Learning :\n1) Peter Harrington, ―Machine Learning n Action‖, DreamTech Press \n2) Ethem Alpaydın, ―Introduction to Machine Learning‖, MIT Press \n3) Tom M. Mitchell, ―Machine Learning‖ McGraw Hill \n4) Stephen Marsland, ―Machine Learning An Algorithmic Perspective‖,  CRC Press\n", "Here are some best Machine Learning books currently available in the library :\n1) Peter Harrington, ―Machine Learning n Action‖, DreamTech Press \n2) Ethem Alpaydın, ―Introduction to Machine Learning‖, MIT Press \n3) Tom M. Mitchell, ―Machine Learning‖ McGraw Hill \n4) Stephen Marsland, ―Machine Learning An Algorithmic Perspective‖,  CRC Press\n","sorry,we are out of ML books.Please try later or contact librarian incharge."]
+},
+
+{
+"tag": "Data structures",
+         "patterns": ["what books do you have for Data structures?", "what are available books for Data structures?","what books are available for DSA?","Suggest some books for DSA","Can you suggest some books for DSA"],
+         "responses": ["Following books are available for Data structures :\n1) Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.\n2) E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India.\n 3) Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India\n", "Here are some best Data structures books currently available in the library :\n1) Prof. P. S. Deshpande, Prof. O. G. Kakde, “C and Data Structures”, DreamTech press.\n2) E. Balagurusamy, “Data Structure Using C”, Tata McGraw-Hill Education India. \n3) Rajesh K Shukla, “Data Structures using C and C++”, Wiley-India\n","sorry,we are out of DSA books.Please try later or contact librarian incharge."]
+},
+
+{
+"tag": "java",
+        "patterns": ["what books do you have for java?", "what are available books for java?","what books are available for java?","Suggest some books for java","Can you suggest some books for java"],
+         "responses": ["Following books are available for java :\n1) Herbert Schildt, ‘JAVA: The Complete Reference’, Ninth Edition, Oracle Press.\n 2) E. Balagurusamy, ‘Programming with Java’, McGraw Hill Education. \n", "Here are some best java books currently available in the library :1) Herbert Schildt, ‘JAVA: The Complete Reference’, Ninth Edition, Oracle Press.\n 2) E. Balagurusamy, ‘Programming with Java’, McGraw Hill Education. \n","sorry,we are out of JAVA books.Please try later or contact librarian incharge."]
+},
+
+{
+"tag": "C programming",
+         "patterns": ["what books do you have for C?", "what are available books for C?","what books are available for C?","Suggest some books for C programming","Can you suggest some books for C"],
+         "responses": ["Following books are available for C Programming :\n The C Programming Language - Denise Ritchie", "Here are some best C Programming books currently available in the library : \nThe C Programming Language - Denise Ritchie"]
+},
+
+{
+"tag": "Software Engineering",
+        "patterns": ["what books do you have for Software Engineering?", "what are available books for Software Engineering?","what books are available for Software Engineering?","Suggest some books for Software Engineering","Can you suggest some books for Software Engineering"],
+         "responses": ["Following books are available for software engineering :\n1) Roger Pressman, “Software Engineering: A Practitioner‘s Approach”, 9th edition , McGraw-Hill Publications, 2019 \n2) Ian Sommerville, “Software Engineering”, 9th edition, Pearson Education, 2011\n", "Here are some best chemistry books currently available in the library :\n1) Roger Pressman, “Software Engineering: A Practitioner‘s Approach”, 9th edition , McGraw-Hill Publications, 2019 \n2) Ian Sommerville, “Software Engineering”, 9th edition, Pearson Education, 2011\n","sorry,we are out of C Programming books.Please try later or contact librarian incharge."]
+},
+
+{
+"tag": "AI",
+         "patterns": ["what books do you have for AI?", "what are available books for AI?","what books are available for AI?","Suggest some books for AI programming","Can you suggest some books for AI"],
+         "responses": ["Following books are available for AI :\n 1) Saroj Kaushik, “Artificial Intelligence”, Cengage Learning, First edition, 2011 \n2) George F Luger, “Artificial Intelligence” Low Price Edition, Fourth edition, Pearson Education.,2005\n", "Here are some best AI books currently available in the library : \n1) Saroj Kaushik, “Artificial Intelligence”, Cengage Learning, First edition, 2011 \n2) George F Luger, “Artificial Intelligence” Low Price Edition, Fourth edition, Pearson Education.,2005","sorry,we are out of Artificial Intelligence(AI) books.Please try later or contact librarian incharge."]
+},
+{
+        "tag": "Computer Engineering",
+        "patterns": ["what books do you have for Computer engineering branch?","Can you recommend a book on computer architecture?","Do you have any books on computer database systems?","Where can I find information on computer security and cryptography?","Can you recommend a book on computer programming and algorithms?","Can you recommend a book on computer-assisted language learning and natural language processing?"],
+        "responses":["Here are the available books for Computer Engineering branch:\nFirst Year :\n1. Computer Organization and Design: The Hardware/Software Interface by David A. Patterson and John L. Hennessy\n2. Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein\n3. Discrete Mathematics and Its Applications by Kenneth H. Rosen\nSecond Year:\n1. Computer Organization and Architecture: Designing for Performance by William Stallings\n2. Data Structures and Algorithms by Mark Allen Weiss\n 3. Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O'Hallaron\n4. Computer Architecture: A Quantitative Approach by John L. Hennessy and David A. Patterson\nThird Year :\n1. Computer Networks: A Systems Approach by Larry L. Peterson and Bruce S. Davie\n2. Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom\n3. Computer Graphics: Principles and Practice in C by James D. Foley, Andries van Dam, Steven K. Feiner, and John F. Hughes\nFourth Year:\n1. Introduction to Embedded Systems: Using ANSI C and the Arduino Development Environment by David J. Russell\n2. Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum and Maarten Van Steen\n3. Computer Vision: Algorithms and Applications by Richard Szeliski"]
+        },
+{
+       "tag": "Electrical Engineering",
+       "patterns": [ "what books do you have for Electrical engineering branch?","What books do you have on electrical circuits and systems?","Can you suggest a book on electromagnetics and electromagnetic fields?","Do you have any books on electric vehicles and transportation systems?", "Can you recommend a book on electrical safety and standards?"],
+       "responses":["Here are the available books for Computer Engineering branch:\nFirst Year :\n1. Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N. O. Sadiku\n2. Engineering Electromagnetics by William H. Hayt Jr. and John A. Buck\n3. Introduction to Electric Power Systems by Mohamed E. El-Hawary\nSecond Year:\n1.  Electronic Devices and Circuit Theory by Robert L. Boylestad and Louis Nashelsky\n2.  Network Analysis by M.E. Van Valkenburg\n3. Signals and Systems by Alan V. Oppenheim, Alan S. Willsky, and S. Hamid Nawab\nThird Year:\n1. Electronics Fundamentals: Circuits, Devices & Applications by Thomas L. Floyd and David M. Buchla\n2.  Signals and Systems by Alan V. Oppenheim, Alan S. Willsky, and S. Hamid Nawab\n3. Electric Machines and Drives: Principles, Control, Modeling, and Simulation by Shaahin Filizadeh\n4. Power Electronics: Converters, Applications, and Design by Ned Mohan, Tore M. Undeland, and William P. Robbins"]
+       },
+    
+    {
+       "tag": "Civil Engineering",
+       "patterns": ["what books do you have for Electrical engineering branch?","Can you recommend some civil engineering books that cover the basics of structural analysis?","What civil engineering books do you have that cover the design and analysis of reinforced concrete structures?"],
+       "responses":["Here are the available books for Civil Enginnering branch:\nFirst Year :\n1. Engineering Mechanics: Statics and Dynamics' by Hibbeler, R. C.\n2. Materials Science and Engineering: An Introduction' by William D. Callister Jr. and David G. Rethwisch\n3. Surveying: Principles and Applications' by Barry Kavanagh and Tom Mastin\nSecond Year:\n1. Structural Analysis' by R.C. Hibbeler\n2. Soil Mechanics and Foundations' by Muni Budhu\n3. Transportation Infrastructure Engineering: A Multimodal Integration' by Lester A. Hoel, Nicholas J. Garber, and Adel W. Sadek\n4. Principles of Geotechnical Engineering' by Braja M. Das and Khaled Sobhan\nThird Year:\n1. Design of Concrete Structures' by Arthur H. Nilson, David Darwin, and Charles W. Dolan\n2. Steel Design' by William T. Segui\n3. Foundation Design: Principles and Practices' by Donald P. Coduto\n4. Water and Wastewater Engineering' by Mackenzie L. Davis and Susan J. Masten\nFourth Year :\n1.Structural Steel Design' by Jack C. McCormac and Stephen F. Csernak\n2. Design of Prestressed Concrete' by Arthur H. Nilson\n3. Construction Methods and Management' by S. W. Nunnally\n4. Transportation Engineering: An Introduction' by C. Jotin Khisty and B. Kent Lall"]
+    },
+    
+    {
+       "tag": "Instrumentation Engineering",
+       "patterns": ["what books do you have for Electrical engineering branch?","Do you have any books on sensors and their applications in instrumentation engineering?","Where can I find books on control systems and instrumentation engineering?", "Where can I find books on industrial instrumentation engineering?"],
+       "responses":["Here are the available books for Civil Enginnering branch:\nFirst Year\n1.  Fundamentals of Instrumentation and Measurement by Dominique Placko\n2. Principles of Industrial Instrumentation by D. Patranabis\n3. Industrial Instrumentation by Alsutko\n4. Measurement and Instrumentation: Theory and Application by Alan S. Morris\nSecond Year:\n1. Electronic Instrumentation and Measurements by David A. Bell\n2. Principles of Measurement Systems by John P. Bentley\n3. Industrial Instrumentation by Donald P. Eckman\n4. Instrumentation Devices and Systems by Rangan, Sarma, and Mani\nThird Year:\n1. Process Control: Modeling, Design, and Simulation by B. Wayne Bequette\n2. Industrial Instrumentation by Alsutko O. Inegbenebor\n3. Analytical Instrumentation: Performance Characteristics and Quality by Dr. Graham Currell\n4. Biomedical Instrumentation and Measurements by Leslie Cromwell, Fred J. Weibell, and Erich A. Mueller\nFourth Year:\n1. Process Control: Modeling, Design, and Simulation by B. Wayne Bequette\n2. Control Systems Engineering by I.J. Nagrath and M. Gopal\n3. Industrial Instrumentation and Control Systems II by William C. Dunn\n4. Measurement and Instrumentation: Theory and Application by Alan S. Morris"]
+    }
+
+
+
+
+
+
+
+
+
+
+
+    ]
+    }
